@@ -1,0 +1,787 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="city">
+        <item>Delhi</item>
+        <item>Gurgaon</item>
+        <item>Noida</item>
+    </string-array>
+    <string-array name="area1">
+        <item>Central Zone-Amar Colony</item>
+        <item>Central Zone-Andrews Ganj</item>
+        <item>Central Zone-Adarsh Nagar</item>
+        <item>Central Zone-Bhogal</item>
+        <item>Central Zone-Chittaranjan Park</item>
+        <item>Central Zone-East of Kailash</item>
+        <item>Central Zone-Govindpuri</item>
+        <item>Central Zone-Greater Kailash I</item>
+        <item>Central Zone-Harkesh Nagar</item>
+        <item>Central Zone-Jat Pura</item>
+        <item>Central Zone-Kalkaji</item>
+        <item>Central Zone-Kasturba Nagar</item>
+        <item>Central Zone-Kotla Mubarapkur</item>
+        <item>Central Zone-Lajpat Nagar (Delhi)</item>
+        <item>Central Zone-Mithapur</item>
+        <item>Central Zone-Moolarband</item>
+        <item>Central Zone-Okhla</item>
+        <item>Central Zone-Pul Perladhpur</item>
+        <item>Central Zone-Sangam Vihar (Central)</item>
+        <item>Central Zone-Sangam Vihar (East)</item>
+        <item>Central Zone-Sangam Vihar (West)</item>
+        <item>Central Zone-Sarita Vihar</item>
+        <item>Central Zone-Sriniwas Puri</item>
+        <item>Central Zone-Tekand)</item>
+        <item>Central Zone-Tuglakabad</item>
+        <item>Central Zone-Tuglakabad Extension</item>
+        <item>Central Zone-Zakhir Nagar</item>
+        <item>City Zone-Ballimaran</item>
+        <item>City Zone-Bazar Sita Ram</item>
+        <item>City Zone-Chandni Chowk</item>
+        <item>City Zone-Daryaganj</item>
+        <item>City Zone-Jama Masjid</item>
+        <item>City Zone-Kucha Pandit</item>
+        <item>City Zone-Minto Road</item>
+        <item>City Zone-Nizamuddin</item>
+        <item>City Zone-Turkman Gate</item>
+        <item>Civil lines Zone-Adarsh Nagar</item>
+        <item>Civil lines Zone-Bhalswa</item>
+        <item>Civil lines Zone-Bhalswa Jahangirpuri</item>
+        <item>Civil lines Zone-Civil line zone</item>
+        <item>Civil lines Zone-Dheerpur</item>
+        <item>Civil lines Zone-GTB Nagar</item>
+        <item>Civil lines Zone-Jahangirpuri-1</item>
+        <item>Civil lines Zone-Jahangirpuri-2</item>
+        <item>Civil lines Zone-Jharoda</item>
+        <item>Civil lines Zone-Kashmere Gate</item>
+        <item>Civil lines Zone-Libaspur</item>
+        <item>Civil lines Zone-Majnu ka Tilla</item>
+        <item>Civil lines Zone-Malka Ganj</item>
+        <item>Civil lines Zone-Model Town</item>
+        <item>Civil lines Zone-Mukherjee Nagar</item>
+        <item>Civil lines Zone-Mukkend Pur</item>
+        <item>Civil lines Zone-Rana Pratap Bagh</item>
+        <item>Civil lines Zone-Samaipur Badli</item>
+        <item>Civil lines Zone-Sangam Park</item>
+        <item>Civil lines Zone-Sarai Pipal Thala</item>
+        <item>Civil lines Zone-Timarpur</item>
+        <item>Karol Bagh Zone-Baljeet Nagar</item>
+        <item>Karol Bagh Zone-Dev Nagar</item>
+        <item>Karol Bagh Zone-East Patel Nagar</item>
+        <item>Karol Bagh Zone-Inderlok Colony</item>
+        <item>Karol Bagh Zone-Inderpuri</item>
+        <item>Karol Bagh Zone-Karampura</item>
+        <item>Karol Bagh Zone-Karol Bagh Ward</item>
+        <item>Karol Bagh Zone-Narayana</item>
+        <item>Karol Bagh Zone-New Ranjit Nagar</item>
+        <item>Karol Bagh Zone-Pusa</item>
+        <item>Karol Bagh Zone-Rajinder Nagar</item>
+        <item>Karol Bagh Zone-West Patel Nagar</item>
+        <item>Najafgarh Zone-Bijwasan</item>
+        <item>Najafgarh Zone-Chawla</item>
+        <item>Najafgarh Zone-Dabri</item>
+        <item>Najafgarh Zone-Dichau Kalan</item>
+        <item>Najafgarh Zone-Kakrola</item>
+        <item>Najafgarh Zone-Kapashera</item>
+        <item>Najafgarh Zone-Khera</item>
+        <item>Najafgarh Zone-Kishan Garh</item>
+        <item>Najafgarh Zone-Madhu Vihar</item>
+        <item>Najafgarh Zone-Mahavir Enclave</item>
+        <item>Najafgarh Zone-Mahipalpur</item>
+        <item>Najafgarh Zone-Matiala</item>
+        <item>Najafgarh Zone-Milap Nagar</item>
+        <item>Najafgarh Zone-Mundka</item>
+        <item>Najafgarh Zone-Nagli Sakrawati</item>
+        <item>Najafgarh Zone-Najafgarh</item>
+        <item>Najafgarh Zone-Nangloi Jat</item>
+        <item>Najafgarh Zone-Nilothi</item>
+        <item>Najafgarh Zone-Palam</item>
+        <item>Najafgarh Zone-Raj Nagar</item>
+        <item>Najafgarh Zone-Roshanpur</item>
+        <item>Najafgarh Zone-Sadh Nagar</item>
+        <item>Najafgarh Zone-Sagarpur</item>
+        <item>Najafgarh Zone-Sagarpur (West)</item>
+        <item>Najafgarh Zone-Sitapuri</item>
+        <item>Narela Zone-Alipur</item>
+        <item>Narela Zone-Baakner</item>
+        <item>Narela Zone-Bawana</item>
+        <item>Narela Zone-Behum Pur</item>
+        <item>Narela Zone-Bhakhtavrpur</item>
+        <item>Narela Zone-Karala</item>
+        <item>Narela Zone-Narela Ward</item>
+        <item>Narela Zone-Nithari</item>
+        <item>Rohini Zone-Ashok Vihar</item>
+        <item>Rohini Zone-Budh Vihar</item>
+        <item>Rohini Zone-Kirari Suleman</item>
+        <item>Rohini Zone-Kohat Enclave</item>
+        <item>Rohini Zone-Mangol Puri</item>
+        <item>Rohini Zone-Mangol Puri (East)</item>
+        <item>Rohini Zone-Mangol Puri (North)</item>
+        <item>Rohini Zone-Mangol Puri(West)</item>
+        <item>Rohini Zone-Naharpur</item>
+        <item>Rohini Zone-Nimri Colony</item>
+        <item>Rohini Zone-Partap Nagar</item>
+        <item>Rohini Zone-Pitampura (North)</item>
+        <item>Rohini Zone-Pitampura (South)</item>
+        <item>Rohini Zone-Pooth Kalan</item>
+        <item>Rohini Zone-Prem Nagar</item>
+        <item>Rohini Zone-Rampura</item>
+        <item>Rohini Zone-Rani Bagh</item>
+        <item>Rohini Zone-Rithala</item>
+        <item>Rohini Zone-Rohini (Central)</item>
+        <item>Rohini Zone-Rohini (North)</item>
+        <item>Rohini Zone-Rohini (East)</item>
+        <item>Rohini Zone-Rohini (South)</item>
+        <item>Rohini Zone-Rohini Ward</item>
+        <item>Rohini Zone-Sahibabad Daulatpur</item>
+        <item>Rohini Zone-Sawan Park</item>
+        <item>Rohini Zone-Shakarpur</item>
+        <item>Rohini Zone-Shalimar Bagh</item>
+        <item>Rohini Zone-Shalimar Bagh (North)</item>
+        <item>Rohini Zone-Sultanpuri (East)</item>
+        <item>Rohini Zone-Sultanpuri (South)</item>
+        <item>Rohini Zone-Sultanpuri Majra</item>
+        <item>Rohini Zone-Trinagar</item>
+        <item>Rohini Zone-Vijay Vihar</item>
+        <item>Rohini Zone-Wazirpur</item>
+        <item>Sadar Paharganj Zone-Deputy Ganj</item>
+        <item>Sadar Paharganj Zone-Idgah Road</item>
+        <item>Sadar Paharganj Zone-Kamla Nagar</item>
+        <item>Sadar Paharganj Zone-Kasabpura</item>
+        <item>Sadar Paharganj Zone-Model Basti</item>
+        <item>Sadar Paharganj Zone-Pahar Ganj</item>
+        <item>Sadar Paharganj Zone-Ram Nagar</item>
+        <item>Sadar Paharganj Zone-Shastri Nagar</item>
+        <item>Shahdra North Zone-Ashok Nagar</item>
+        <item>Shahdra North Zone-Babar Pur</item>
+        <item>Shahdra North Zone-Bhajanpura</item>
+        <item>Shahdra North Zone-Bharam Puri</item>
+        <item>Shahdra North Zone-Chuhan Banger</item>
+        <item>Shahdra North Zone-Dilshad Colony</item>
+        <item>Shahdra North Zone-Dilshad Garden</item>
+        <item>Shahdra North Zone-Durgapuri</item>
+        <item>Shahdra North Zone-Ghonda</item>
+        <item>Shahdra North Zone-Gokal Pur</item>
+        <item>Shahdra North Zone-Harsh Vihar</item>
+        <item>Shahdra North Zone-Jaffrabad</item>
+        <item>Shahdra North Zone-Janta Colony</item>
+        <item>Shahdra North Zone-Jeevanpur</item>
+        <item>Shahdra North Zone-Karawal Nagar (East)</item>
+        <item>Shahdra North Zone-Karawal Nagar (West)</item>
+        <item>Shahdra North Zone-Kardampuri</item>
+        <item>Shahdra North Zone-Khajuri Khas</item>
+        <item>Shahdra North Zone-Maujpur</item>
+        <item>Shahdra North Zone-Musthafabad</item>
+        <item>Shahdra North Zone-Nand Nagri</item>
+        <item>Shahdra North Zone-Nehru Vihar</item>
+        <item>Shahdra North Zone-New Seemapuri</item>
+        <item>Shahdra North Zone-New Usmanpur</item>
+        <item>Shahdra North Zone-Ram Nagar 2</item>
+        <item>Shahdra North Zone-Saboli</item>
+        <item>Shahdra North Zone-Shiv Vihar</item>
+        <item>Shahdra North Zone-Sonia Vihar</item>
+        <item>Shahdra North Zone-Subhash Mohalla</item>
+        <item>Shahdra North Zone-Sunder Nageri</item>
+        <item>Shahdra North Zone-Tukmeenpur</item>
+        <item>Shahdra North Zone-Vivek Vihar</item>
+        <item>Shahdra North Zone-Welcome Colony</item>
+        <item>Shahdra North Zone-Yamuna Vihar</item>
+        <item>Shahdra South Zone-Anand Vihar</item>
+        <item>Shahdra South Zone-Anarkali</item>
+        <item>Shahdra South Zone-Azad Nagar</item>
+        <item>Shahdra South Zone-Dallu Pura</item>
+        <item>Shahdra South Zone-Dharam Pura</item>
+        <item>Shahdra South Zone-Gandhi Nagar</item>
+        <item>Shahdra South Zone-Geeta Colony</item>
+        <item>Shahdra South Zone-Ghondli</item>
+        <item>Shahdra South Zone-Ghroli</item>
+        <item>Shahdra South Zone-I.P. Extension</item>
+        <item>Shahdra South Zone-Jhilmil</item>
+        <item>Shahdra South Zone-Kalyanpuri</item>
+        <item>Shahdra South Zone-Kichripur</item>
+        <item>Shahdra South Zone-Kishan Kunj</item>
+        <item>Shahdra South Zone-Kondli</item>
+        <item>Shahdra South Zone-Krishna Nagar</item>
+        <item>Shahdra South Zone-Laxmi Nagar</item>
+        <item>Shahdra South Zone-Mandawli</item>
+        <item>Shahdra South Zone-Mayur Vihar</item>
+        <item>Shahdra South Zone-Mayur Vihar 2</item>
+        <item>Shahdra South Zone-New Ashok Nagar</item>
+        <item>Shahdra South Zone-Pandav Nagar</item>
+        <item>Shahdra South Zone-Patpar Ganj</item>
+        <item>Shahdra South Zone-Preet Vihar</item>
+        <item>Shahdra South Zone-Raghuvar Pura</item>
+        <item>Shahdra South Zone-Shahdra (South)</item>
+        <item>Shahdra South Zone-Shakarpur</item>
+        <item>Shahdra South Zone-Trilok Puri</item>
+        <item>Shahdra South Zone-Vinod Nagar</item>
+        <item>Shahdra South Zone-Vishwas Nagar</item>
+        <item>South Zone-Aya Nagar</item>
+        <item>South Zone-Bhatti</item>
+        <item>South Zone-Chattarpur</item>
+        <item>South Zone-Chirag Delhi</item>
+        <item>South Zone-Dakshinpuri Extn.</item>
+        <item>South Zone-Devli</item>
+        <item>South Zone-Dr. Ambedkar Nagar</item>
+        <item>South Zone-Hauz Khas</item>
+        <item>South Zone-Khanpur</item>
+        <item>South Zone-Ladoo Sarai</item>
+        <item>South Zone-Madangir</item>
+        <item>South Zone-Malviya Nagar</item>
+        <item>South Zone-Mehrauli</item>
+        <item>South Zone-Munirka</item>
+        <item>South Zone-Nanak Pura</item>
+        <item>South Zone-Pushap Vihar</item>
+        <item>South Zone-R.K. Puram</item>
+        <item>South Zone-Safdarjung Enclave</item>
+        <item>South Zone-Saiyed ul Ajayeb</item>
+        <item>South Zone-Sangam Vihar</item>
+        <item>South Zone-Shahpur Jat</item>
+        <item>South Zone-Tigri</item>
+        <item>South Zone-Vasant Kunj</item>
+        <item>South Zone-Vasant Vihar</item>
+        <item>South Zone-Village Hauz Rani</item>
+        <item>West Zone-Bindapur</item>
+        <item>West Zone-Guru Harkishan Nagar</item>
+        <item>West Zone-Hari Nagar</item>
+        <item>West Zone-Hastsal</item>
+        <item>West Zone-Janakpuri West</item>
+        <item>West Zone-Janakpuri North</item>
+        <item>West Zone-Janakpuri South</item>
+        <item>West Zone-Khyala</item>
+        <item>West Zone-Kirti Nagar</item>
+        <item>West Zone-Kuvar Singh Nagar</item>
+        <item>West Zone-Madipur</item>
+        <item>West Zone-Mahavir Nagar</item>
+        <item>West Zone-Major Bhupender Singh Nagar</item>
+        <item>West Zone-Mansarovar Garden</item>
+        <item>West Zone-Mohan Garden</item>
+        <item>West Zone-Moti Nagar</item>
+        <item>West Zone-Nangloi East</item>
+        <item>West Zone-Nangal Raya</item>
+        <item>West Zone-Nawada</item>
+        <item>West Zone-Paschim Vihar North</item>
+        <item>West Zone-Paschim Vihar South</item>
+        <item>West Zone-Peera Garhi</item>
+        <item>West Zone-Punjabi Bagh</item>
+        <item>West Zone-Quammruddin Nagar</item>
+        <item>West Zone-Raghubir Nagar</item>
+    </string-array>
+
+    <string-array name="area2">
+        <item>East Zone-Ambience Island</item>
+        <item>East Zone-Ardee City</item>
+        <item>East Zone-Chakkarpur</item>
+        <item>East Zone-Chakkarpur Village</item>
+        <item>East Zone-Dhanchiri Camp</item>
+        <item>East Zone-DLF City Phase 1</item>
+        <item>East Zone-DLF City Phase 2</item>
+        <item>East Zone-DLF City Phase 3</item>
+        <item>East Zone-DLF City Phase 4</item>
+        <item>East Zone-DLF City Phase 5</item>
+        <item>East Zone-DLF Corporate Park</item>
+        <item>East Zone-Garden Estate</item>
+        <item>East Zone-Ghata</item>
+        <item>East Zone-Ghata Village</item>
+        <item>East Zone-Global Business Park</item>
+        <item>East Zone-Greenwood City</item>
+        <item>East Zone-Gwal Pahari Village</item>
+        <item>East Zone-Indira Colony 1</item>
+        <item>East Zone-Indira Colony 2</item>
+        <item>East Zone-Jalvayu Vihar</item>
+        <item>East Zone-Kanhai</item>
+        <item>East Zone-Kanhai Village</item>
+        <item>East Zone-Mall Road</item>
+        <item>East Zone-Maruti Vihar</item>
+        <item>East Zone-Mohyal Colony</item>
+        <item>East Zone-Moti Vihar</item>
+        <item>East Zone-Nathu Pur</item>
+        <item>East Zone-Nathupur Village</item>
+        <item>East Zone-National Media Center</item>
+        <item>East Zone-New Gwal Pahari Village</item>
+        <item>East Zone-Pahari Area</item>
+        <item>East Zone-Pahari Area Gwal Pahari</item>
+        <item>East Zone-Pahari Area Sikanderpur Ghosi</item>
+        <item>East Zone-Saraswati Vihar</item>
+        <item>East Zone-Sector 27</item>
+        <item>East Zone-Sector 28</item>
+        <item>East Zone-Sector 29</item>
+        <item>East Zone-Sector 30</item>
+        <item>East Zone-Sector 40</item>
+        <item>East Zone-Sector 41</item>
+        <item>East Zone-Sector 42</item>
+        <item>East Zone-Sector 43</item>
+        <item>East Zone-Sector 44</item>
+        <item>East Zone-Sector 45</item>
+        <item>East Zone-Sector 52</item>
+        <item>East Zone-Sector 52A</item>
+        <item>East Zone-Sector 53</item>
+        <item>East Zone-Sector 54</item>
+        <item>East Zone-Sector 55</item>
+        <item>East Zone-Sector 56</item>
+        <item>East Zone-Sector 58</item>
+        <item>East Zone-Sector 61</item>
+        <item>East Zone-Sikanderpur Ghosi Village </item>
+        <item>East Zone-Silokhra</item>
+        <item>East Zone-Silokhra Village</item>
+        <item>East Zone-South City 1</item>
+        <item>East Zone-Sushant Lok Phase 1 </item>
+        <item>East Zone-Sushant Lok Phase 2</item>
+        <item>East Zone-Vijay Vihar </item>
+        <item>East Zone-Wazirabad </item>
+        <item>East Zone-Wazirabad Village </item>
+        <item>North Zone-Acharya Puri</item>
+        <item>North Zone-Adarsh Nagar</item>
+        <item>North Zone-Airforce Station</item>
+        <item>North Zone-Amanpura</item>
+        <item>North Zone-Ammunition Depot</item>
+        <item>North Zone-Anamika Enclave</item>
+        <item>North Zone-Apna Enclave</item>
+        <item>North Zone-Ashok Puri</item>
+        <item>North Zone-Ashok Vihar</item>
+        <item>North Zone-Ashok Vihar Phase 2</item>
+        <item>North Zone-Ashok Vihar Phase 3</item>
+        <item>North Zone-Baraf Khana</item>
+        <item>North Zone-Bhim Nagar</item>
+        <item>North Zone-Bhimgarh Kheri Phase 1</item>
+        <item>North Zone-Bhimgarh Kheri Phase 2</item>
+        <item>North Zone-Bhimgarh Kheri Phase 3</item>
+        <item>North Zone-Canal Colony</item>
+        <item>North Zone-Carterpuri Village</item>
+        <item>North Zone-Carterpuri</item>
+        <item>North Zone-Chander Nagar</item>
+        <item>North Zone-Chauma Khera</item>
+        <item>North Zone-Chauma Khera Village</item>
+        <item>North Zone-Civil Lines</item>
+        <item>North Zone-Dayanand Colony</item>
+        <item>North Zone-Dundahera</item>
+        <item>North Zone-Dundahera Village</item>
+        <item>North Zone-Friends Colony</item>
+        <item>North Zone-Gopal Nagar</item>
+        <item>North Zone-Gurgaon</item>
+        <item>North Zone-Gurgaon Village</item>
+        <item>North Zone-HUDA Market Sector 12A</item>
+        <item>North Zone-HVPNL Colony</item>
+        <item>North Zone-Indra Puri</item>
+        <item>North Zone-Industrial Estate Development Colony</item>
+        <item>North Zone-Jacubpura</item>
+        <item>North Zone-Jawahar Nagar</item>
+        <item>North Zone-Kirti Nagar</item>
+        <item>North Zone-Lajpat Nagar</item>
+        <item>North Zone-Mahavir Pura</item>
+        <item>North Zone-Maruti Udyog</item>
+        <item>North Zone-MDI</item>
+        <item>North Zone-Mianwali Colony</item>
+        <item>North Zone-Moulahera</item>
+        <item>North Zone-Moulahera Village</item>
+        <item>North Zone-Nai Basti</item>
+        <item>North Zone-New Palam Vihar Phase 1</item>
+        <item>North Zone-New Palam Vihar Phase 2</item>
+        <item>North Zone-New Palam Vihar Phase 3</item>
+        <item>North Zone-Nihal Colony</item>
+        <item>North Zone-Old DLF</item>
+        <item>North Zone-Palam Vihar</item>
+        <item>North Zone-Palam Vihar Extn.</item>
+        <item>North Zone-Patel Nagar</item>
+        <item>North Zone-Pawala Khusrupur</item>
+        <item>North Zone-Pawala Khusrupur Village</item>
+        <item>North Zone-Police Line</item>
+        <item>North Zone-Prem Nagar 1</item>
+        <item>North Zone-Prem Nagar 2</item>
+        <item>North ZoneA-Rajiv Nagar</item>
+        <item>North Zone-Rajiv Nagar West</item>
+        <item>North Zone-Ram Nagar</item>
+        <item>North Zone-Roshanpura</item>
+        <item>North Zone-Sanjay Colony</item>
+        <item>North Zone-Sanjay Gram</item>
+        <item>North Zone-Sarai Alawardi</item>
+        <item>North Zone-Sarai Alawardi Village</item>
+        <item>North Zone-Saurhaul</item>
+        <item>North Zone-Sector 100A</item>
+        <item>North Zone-Sector 106</item>
+        <item>North Zone-Sector 109</item>
+        <item>North Zone-Sector 111</item>
+        <item>North Zone-Sector 112</item>
+        <item>North Zone-Sector 113</item>
+        <item>North Zone-Sector 12A</item>
+        <item>North Zone-Sector 14</item>
+        <item>North Zone-Sector 151</item>
+        <item>North Zone-Sector 152</item>
+        <item>North Zone-Sector 16</item>
+        <item>North Zone-Sector 17</item>
+        <item>North Zone-Sector 18</item>
+        <item>North Zone-Sector 21</item>
+        <item>North Zone-Sector 22</item>
+        <item>North Zone-Sector 23</item>
+        <item>North Zone-Sector 23A</item>
+        <item>North Zone-Sector 5</item>
+        <item>North Zone-Sheetla Colony</item>
+        <item>North Zone-Subash Nagar</item>
+        <item>North Zone-Sukhrali</item>
+        <item>North Zone-Sukhrali Village</item>
+        <item>North Zone-Udyog Vihar Phase 1</item>
+        <item>North Zone-Udyog Vihar Phase 2</item>
+        <item>North Zone-Udyog Vihar Phase 3</item>
+        <item>North Zone-Udyog Vihar Phase 4</item>
+        <item>North Zone-Udyog Vihar Phase 5</item>
+        <item>South Zone-Badshahpur</item>
+        <item>South Zone-Badshahpur Village</item>
+        <item>South Zone-Begampur Khatola</item>
+        <item>South Zone-Khatola</item>
+        <item>South Zone-Behrampur</item>
+        <item>South Zone-Behrampur Village</item>
+        <item>South Zone-Fazilpur Jharsa</item>
+        <item>South Zone-Fazilpur Jharsa Village</item>
+        <item>South Zone-Ghasola</item>
+        <item>South Zone-Ghasola Village</item>
+        <item>South Zone-Greenwood City</item>
+        <item>South Zone-Hans Enclave</item>
+        <item>South Zone-Info City 1</item>
+        <item>South Zone-Info City 2</item>
+        <item>South Zone-Islampur</item>
+        <item>South Zone-Islampur Village</item>
+        <item>South Zone-Jal Vihar Colony</item>
+        <item>South Zone-Jharsa</item>
+        <item>South Zone-Jharsa Village</item>
+        <item>South Zone-Malibu Town</item>
+        <item>South Zone-Mayfield Garden</item>
+        <item>South Zone-Medi City</item>
+        <item>South Zone-Naharpur Rupa</item>
+        <item>South Zone-Naharpur Rupa Village</item>
+        <item>South Zone-Narsinghpur East</item>
+        <item>South Zone-Nirvana</item>
+        <item>South Zone-Nitin Vihar</item>
+        <item>South Zone-Pahari Area</item>
+        <item>South Zone-Prem Puri</item>
+        <item>South Zone-Rajeev Colony</item>
+        <item>South Zone-Ramgarh Dhani</item>
+        <item>South Zone-Rosewood City</item>
+        <item>South Zone-Samaspur</item>
+        <item>South Zone-Samaspur Village</item>
+        <item>South Zone-Sector 31</item>
+        <item>South Zone-Sector 32</item>
+        <item>South Zone-Sector 32A</item>
+        <item>South Zone-Sector 33</item>
+        <item>South Zone-Sector 34</item>
+        <item>South Zone-Sector 35</item>
+        <item>South Zone-Sector 38</item>
+        <item>South Zone-Sector 39</item>
+        <item>South Zone-Sector 46</item>
+        <item>South Zone-Sector 47</item>
+        <item>South Zone-Sector 47 Distt. Center</item>
+        <item>South Zone-Sector 48</item>
+        <item>South Zone-Sector 49</item>
+        <item>South Zone-Sector 50</item>
+        <item>South Zone-Sector 51</item>
+        <item>South Zone-Sector 57</item>
+        <item>South Zone-Sector 62</item>
+        <item>South Zone-Sector 65</item>
+        <item>South Zone-Sector 66</item>
+        <item>South Zone-Sector 67</item>
+        <item>South Zone-Sector 68</item>
+        <item>South Zone-Sector 69</item>
+        <item>South Zone-Sector 70</item>
+        <item>South Zone-Sector 71</item>
+        <item>South Zone-Sector 72</item>
+        <item>South Zone-Sector 72A</item>
+        <item>South Zone-Sector 73</item>
+        <item>South Zone-Sector 74</item>
+        <item>South Zone-Sector 74A</item>
+        <item>South Zone-Sector 75</item>
+        <item>South Zone-Sector 75A</item>
+        <item>South Zone-Sector 76</item>
+        <item>South Zone-Shiv Colony</item>
+        <item>South Zone-South City 2</item>
+        <item>South Zone-Sushant Lok Phase 2</item>
+        <item>South Zone-Sushant Lok Phase 3</item>
+        <item>South Zone-Sushant Lok Phase 3 Extn.</item>
+        <item>South Zone-Teekri</item>
+        <item>South Zone-Teekri Village</item>
+        <item>South Zone-Tigra</item>
+        <item>South Zone-Tigra Village</item>
+        <item>South Zone-Uppal Southend</item>
+        <item>South Zone-Wazirabad</item>
+        <item>South Zone-Wireless Station</item>
+        <item>West Zone-Aath Marla</item>
+        <item>West Zone-Amar Colony</item>
+        <item>West Zone-Ambedkar Nagar</item>
+        <item>West Zone-Anaj Mandi</item>
+        <item>West Zone-Arjun Nagar</item>
+        <item>West Zone-Auto Market</item>
+        <item>West Zone-Baldev Nagar</item>
+        <item>West Zone-Basai</item>
+        <item>West Zone-Basai Enclave 1</item>
+        <item>West Zone-Basai Enclave 2</item>
+        <item>West Zone-Basai Village</item>
+        <item>West Zone-Bhawani Enclave</item>
+        <item>West Zone-Cancon Enclave</item>
+        <item>West Zone-Char Marla</item>
+        <item>West Zone-Daultabad</item>
+        <item>West Zone-Daultabad Industrial Area</item>
+        <item>West Zone-Devilal Colony</item>
+        <item>West Zone-Dhanwapur</item>
+        <item>West Zone-Dhanwapur Village</item>
+        <item>West Zone-Feroz Gandhi Colony</item>
+        <item>West Zone-Feroz Gandhi Colony Phase 2</item>
+        <item>West Zone-Gandhi Nagar</item>
+        <item>West Zone-Gharoli Kalan</item>
+        <item>West Zone-Gharoli Kalan Village</item>
+        <item>West Zone-Hari Nagar</item>
+        <item>West Zone-Harsaru</item>
+        <item>West Zone-Harsaru Village</item>
+        <item>West Zone-Heera Nagar</item>
+        <item>West Zone-Idgah Colony</item>
+        <item>West Zone-ISBT and MRTS</item>
+        <item>West Zone-Jyoti Park</item>
+        <item>West Zone-Kadipur</item>
+        <item>West Zone-Kadipur Enclave</item>
+        <item>West Zone-Kadipur Industrial Area</item>
+        <item>West Zone-Kadipur Village</item>
+        <item>West Zone-Khandsa</item>
+        <item>West Zone-Khandsa Village</item>
+        <item>West Zone-Kherki Daula Village</item>
+        <item>West Zone-Krishna Colony</item>
+        <item>West Zone-Krishna Nagar</item>
+        <item>West Zone-Laxman Vihar Phase 1</item>
+        <item>West Zone-Laxman Vihar Phase 2</item>
+        <item>West Zone-Laxmi Garden</item>
+        <item>West Zone-Madan Puri</item>
+        <item>West Zone-Manohar Nagar</item>
+        <item>West Zone-Mohommad Jharsa</item>
+        <item>West Zone-Mohommad Jharsa Village</item>
+        <item>West Zone-Nai Aabadi</item>
+        <item>West Zone-Narsinghpur</item>
+        <item>West Zone-Narsinghpur Village</item>
+        <item>West Zone-Nehru Lane</item>
+        <item>West Zone-New Colony</item>
+        <item>West Zone-Old Industrial Area Khandsa Road</item>
+        <item>West Zone-Pace City 1</item>
+        <item>West Zone-Pace City 2</item>
+        <item>West Zone-Pratap Nagar</item>
+        <item>West Zone-Raj Nagar</item>
+        <item>West Zone-Rajendra Park</item>
+        <item>West Zone-Ram Vihar</item>
+        <item>West Zone-Rattan Garden</item>
+        <item>West Zone-Ravi Nagar</item>
+        <item>West Zone-Saraswati Enclave</item>
+        <item>West Zone-Sector 10</item>
+        <item>West Zone-Sector 10A</item>
+        <item>West Zone-Sector 100</item>
+        <item>West Zone-Sector 101</item>
+        <item>West Zone-Sector 102</item>
+        <item>West Zone-Sector 102A</item>
+        <item>West Zone-Sector 103</item>
+        <item>West Zone-Sector 104</item>
+        <item>West Zone-Sector 36</item>
+        <item>West Zone-Sector 37B</item>
+        <item>West Zone-Sector 37C</item>
+        <item>West Zone-Sector 37D</item>
+        <item>West Zone-Sector 4</item>
+        <item>West Zone-Sector 7</item>
+        <item>West Zone-Sector 7 Exttn.</item>
+        <item>West Zone-Sector 7 Housing Board</item>
+        <item>West Zone-Sector 83</item>
+        <item>West Zone-Sector 84</item>
+        <item>West Zone-Sector 88</item>
+        <item>West Zone-Sector 9</item>
+        <item>West Zone-Sector 9A</item>
+        <item>West Zone-Sector 9B</item>
+        <item>West Zone-SEZ</item>
+        <item>West Zone-Shakti Nagar</item>
+        <item>West Zone-Shakti Park</item>
+        <item>West Zone-Shanti Nagar</item>
+        <item>West Zone-Shiv Nagar</item>
+        <item>West Zone-Shivaji Nagar</item>
+        <item>West Zone-Shivji Park</item>
+        <item>West Zone-Shivpuri</item>
+        <item>West Zone-Sihi</item>
+        <item>West Zone-Sihi Village</item>
+        <item>West Zone-Surat Nagar Phase 1</item>
+        <item>West Zone-Surat Nagar Phase 2</item>
+        <item>West Zone-Surya Vihar</item>
+        <item>West Zone-Tek Chandra Nagar</item>
+        <item>West Zone-Udyog Vihar Phase 6</item>
+        <item>West Zone-Veer Nagar</item>
+        <item>West Zone-Vijay Park</item>
+        <item>West Zone-Vikas Nagar</item>
+        <item>West Zone-Vishwakarma Colony</item>
+    </string-array>
+
+    <string-array name="area3">
+        <item>Dadri Road</item>
+        <item>Noida-Greater Noida Expressway</item>
+        <item>Noida-Greater Noida Link Road</item>
+        <item>Sector 100</item>
+        <item>Sector 104</item>
+        <item>Sector 119</item>
+        <item>Sector 120</item>
+        <item>Sector 121</item>
+        <item>Sector 45</item>
+        <item>Sector 62</item>
+        <item>Sector 73</item>
+        <item>Sector 79</item>
+        <item>Sector 110</item>
+        <item>Sector 137</item>
+        <item>Sector 50</item>
+        <item>Sector 74</item>
+        <item>Sector 76</item>
+        <item>Sector 77</item>
+        <item>Sector 78</item>
+        <item>Sector 1</item>
+        <item>Sector 10</item>
+        <item>Sector 101</item>
+        <item>Sector 102</item>
+        <item>Sector 105</item>
+        <item>Sector 106</item>
+        <item>Sector 107</item>
+        <item>Sector 108</item>
+        <item>Sector 11</item>
+        <item>Sector 112</item>
+        <item>Sector 113</item>
+        <item>Sector 115</item>
+        <item>Sector 116</item>
+        <item>Sector 117</item>
+        <item>Sector 118</item>
+        <item>Sector 12</item>
+        <item>Sector 122</item>
+        <item>Sector 123</item>
+        <item>Sector 124</item>
+        <item>Sector 125</item>
+        <item>Sector 126</item>
+        <item>Sector 127</item>
+        <item>Sector 128</item>
+        <item>Sector 129</item>
+        <item>Sector 130</item>
+        <item>Sector 131</item>
+        <item>Sector 132</item>
+        <item>Sector 133</item>
+        <item>Sector 134</item>
+        <item>Sector 135</item>
+        <item>Sector 136</item>
+        <item>Sector 138</item>
+        <item>Sector 14</item>
+        <item>Sector 14A</item>
+        <item>Sector 140</item>
+        <item>Sector 140A</item>
+        <item>Sector 141</item>
+        <item>Sector 142</item>
+        <item>Sector 143</item>
+        <item>Sector 143A</item>
+        <item>Sector 143B</item>
+        <item>Sector 144</item>
+        <item>Sector 145</item>
+        <item>Sector 146</item>
+        <item>Sector 147</item>
+        <item>Sector 148</item>
+        <item>Sector 149</item>
+        <item>Sector 15</item>
+        <item>Sector 15A</item>
+        <item>Sector 150</item>
+        <item>Sector 151</item>
+        <item>Sector 152</item>
+        <item>Sector 153</item>
+        <item>Sector 154</item>
+        <item>Sector 155</item>
+        <item>Sector 156</item>
+        <item>Sector 157</item>
+        <item>Sector 158</item>
+        <item>Sector 159</item>
+        <item>Sector 16</item>
+        <item>Sector 16A</item>
+        <item>Sector 16B</item>
+        <item>Sector 160</item>
+        <item>Sector 161</item>
+        <item>Sector 162</item>
+        <item>Sector 163</item>
+        <item>Sector 164</item>
+        <item>Sector 165</item>
+        <item>Sector 166</item>
+        <item>Sector 167</item>
+        <item>Sector 168</item>
+        <item>Sector 17</item>
+        <item>Sector 18</item>
+        <item>Sector 19</item>
+        <item>Sector 2</item>
+        <item>Sector 20</item>
+        <item>Sector 21</item>
+        <item>Sector 22</item>
+        <item>Sector 23</item>
+        <item>Sector 24</item>
+        <item>Sector 25</item>
+        <item>Sector 25A</item>
+        <item>Sector 26</item>
+        <item>Sector 27</item>
+        <item>Sector 28</item>
+        <item>Sector 29</item>
+        <item>Sector 3</item>
+        <item>Sector 30</item>
+        <item>Sector 31</item>
+        <item>Sector 32</item>
+        <item>Sector 33</item>
+        <item>Sector 34</item>
+        <item>Sector 35</item>
+        <item>Sector 36</item>
+        <item>Sector 37</item>
+        <item>Sector 38</item>
+        <item>Sector 39</item>
+        <item>Sector 4</item>
+        <item>Sector 40</item>
+        <item>Sector 41</item>
+        <item>Sector 42</item>
+        <item>Sector 43</item>
+        <item>Sector 44</item>
+        <item>Sector 46</item>
+        <item>Sector 47</item>
+        <item>Sector 48</item>
+        <item>Sector 49</item>
+        <item>Sector 5</item>
+        <item>Sector 51</item>
+        <item>Sector 52</item>
+        <item>Sector 53</item>
+        <item>Sector 55</item>
+        <item>Sector 56</item>
+        <item>Sector 57</item>
+        <item>Sector 58</item>
+        <item>Sector 59</item>
+        <item>Sector 6</item>
+        <item>Sector 60</item>
+        <item>Sector 61</item>
+        <item>Sector 62A</item>
+        <item>Sector 63</item>
+        <item>Sector 64</item>
+        <item>Sector 65</item>
+        <item>Sector 66</item>
+        <item>Sector 67</item>
+        <item>Sector 68</item>
+        <item>Sector 69</item>
+        <item>Sector 7</item>
+        <item>Sector 71</item>
+        <item>Sector 72</item>
+        <item>Sector 75</item>
+        <item>Sector 8</item>
+        <item>Sector 80</item>
+        <item>Sector 81</item>
+        <item>Sector 82</item>
+        <item>Sector 83</item>
+        <item>Sector 84</item>
+        <item>Sector 85</item>
+        <item>Sector 86</item>
+        <item>Sector 87</item>
+        <item>Sector 88</item>
+        <item>Sector 89</item>
+        <item>Sector 9</item>
+        <item>Sector 90</item>
+        <item>Sector 91</item>
+        <item>Sector 92</item>
+        <item>Sector 93</item>
+        <item>Sector 93A</item>
+        <item>Sector 93B</item>
+        <item>Sector 94</item>
+        <item>Sector 94A</item>
+        <item>Sector 95</item>
+        <item>Sector 96</item>
+        <item>Sector 97</item>
+        <item>Sector 98</item>
+        <item>Sector 99</item>
+        <item>Sorkha</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="categories">
+        <item>Select Complaint Category</item>
+        <item>Health Hazard Removal</item>
+        <item>Bio Medical Waste Removal</item>
+        <item>Property Tax Complaints</item>
+        <item>Enchroachment on Public Property</item>
+        <item>Mosquito Menace</item>
+        <item>Broken Street Lights</item>
+        <item>Garbage Removal</item>
+        <item>Water Stagnation</item>
+        <item>Illegal / Unauthorized Construction</item>
+        <item>Bridges/Flyovers/Subways</item>
+        <item>Playground maintenance</item>
+        <item>Traffic Signs/Island</item>
+        <item>Drainage Problems</item>
+        <item>Removal of Silt from Road</item>
+        <item>Absenteeism of Sweepers</item>
+        <item>Broken Dustbin</item>
+        <item>Burning of Garbage</item>
+        <item>Complaints Regarding School</item>
+        <item>Unauthorized Advertisement Boards</item>
+        <item>Cleaning of Toilets in Public Area</item>
+        <item>Complaints Regarding Dispensary</item>
+        <item>Food Quality Complaints in Hotels</item>
+        <item>Death of Stray Animals</item>
+        <item>Public Health Issues</item>
+        <item>Animal Issues</item>
+        <item>Cleaning and sweeping</item>
+        <item>Encroachment</item>
+        <item>Road Traffic</item>
+        <item>Sewage</item>
+        <item>Taxation</item>
+        <item>Streetlight</item>
+        <item>Unauthorized construction</item>
+        <item>Water Supply</item>
+        <item>Storm water drain</item>
+        <item>License</item>
+        <item>Sanitation</item>
+        <item>Encroachment</item>
+        <item>Unauthorized construction</item>
+        <item>Horticulture</item>
+        <item>Miscellaneous</item>
+
+    </string-array>
+    <string-array name="catDefault">
+        <item>Select Complaint Category</item>
+    </string-array>
+
+    <string-array name="catDelhiCentral">
+        <item>Health Hazard Removal</item>
+    </string-array>
+
+    <string-array name="catDelhiCity">
+        <item>Bio Medical Waste Removal</item>
+    </string-array>
+
+    <string-array name="catDelhiCivilLines">
+        <item>Property Tax Complaints</item>
+    </string-array>
+
+    <string-array name="catDelhiKarolBagh">
+        <item>Enchroachment on Public Property</item>
+    </string-array>
+
+    <string-array name="catDelhiNajafgarh">
+        <item>Mosquito Menace</item>
+    </string-array>
+
+    <string-array name="catDelhiNarela">
+        <item>Broken Street Lights</item>
+    </string-array>
+
+    <string-array name="catDelhiRohini">
+        <item>Garbage Removal</item>
+    </string-array>
+
+    <string-array name="catDelhiShahdraNorth">
+        <item>Water Stagnation</item>
+    </string-array>
+
+    <string-array name="catDelhiShahdraSouth">
+        <item>Illegal / Unauthorized Construction</item>
+    </string-array>
+
+    <string-array name="catDelhiSouth">
+        <item>Bridges/Flyovers/Subways</item>
+    </string-array>
+
+    <string-array name="catDelhiWest">
+        <item>Playground maintenance</item>
+    </string-array>
+
+    <string-array name="catSadar">
+
+        <item>Traffic Signs/Island</item>
+        <item>Drainage Problems</item>
+        <item>Removal of Silt from Road</item>
+        <item>Absenteeism of Sweepers</item>
+        <item>Broken Dustbin</item>
+        <item>Burning of Garbage</item>
+        <item>Complaints Regarding School</item>
+        <item>Unauthorized Advertisement Boards</item>
+        <item>Cleaning of Toilets in Public Area</item>
+        <item>Complaints Regarding Dispensary</item>
+        <item>Food Quality Complaints in Hotels</item>
+        <item>Death of Stray Animals</item>
+        <item>Public Health Issues</item>
+
+    </string-array>
+
+    <string-array name="catGurgaonWest">
+        <item> Animal Issues</item>
+        <item>Cleaning and sweeping</item>
+        <item>Encroachment</item>
+        <item>Garbage</item>
+        <item>Road Traffic</item>
+        <item>Sewage</item>
+        <item>Taxation</item>
+        <item>Streetlight</item>
+        <item>Unauthorized construction</item>
+        <item>Water Supply</item>
+        <item>Storm water drain</item>
+        <item>Miscellaneous</item>
+        <item>License</item>
+        <item>Sanitation</item>
+    </string-array>
+
+    <string-array name="catGurgaonNorth">
+        <item> Animal Issues</item>
+        <item>Cleaning and sweeping</item>
+        <item>Encroachment</item>
+        <item>Garbage</item>
+        <item>Road Traffic</item>
+        <item>Sewage</item>
+        <item>Taxation</item>
+        <item>Unauthorized construction</item>
+        <item>Water Supply</item>
+        <item>Storm water drain</item>
+        <item>Miscellaneous</item>
+    </string-array>
+
+    <string-array name="catGurgaonEast">
+        <item> Animal Issues</item>
+        <item>Cleaning and sweeping</item>
+        <item>Encroachment</item>
+        <item>Garbage</item>
+        <item>Road Traffic</item>
+        <item>Sewage</item>
+        <item>Taxation</item>
+        <item>Unauthorized construction</item>
+        <item>Water Supply</item>
+        <item>Storm water drain</item>
+        <item>Miscellaneous</item>
+    </string-array>
+
+    <string-array name="catGurgaonSouth">
+        <item> Animal Issues</item>
+        <item>Cleaning and sweeping</item>
+        <item>Horticulture</item>
+        <item>Encroachment</item>
+        <item>Garbage</item>
+        <item>Road Traffic</item>
+        <item>Sewage</item>
+        <item>Taxation</item>
+        <item>Unauthorized construction</item>
+        <item>Water Supply</item>
+        <item>Storm water drain</item>
+        <item>Miscellaneous</item>
+    </string-array>
+
+    <string-array name="areas">
+        <item>Select Your Area</item>
+        <item>Delhi - Central</item>
+        <item>Delhi - City</item>
+        <item>Delhi - Civil Lines</item>
+        <item>Delhi - Karol Bagh</item>
+        <item>Delhi - Najafgarh</item>
+        <item>Delhi - Narela</item>
+        <item>Delhi - Rohini</item>
+        <item>Delhi - Shahdra North</item>
+        <item>Delhi - Shahdra South</item>
+        <item>Delhi - South</item>
+        <item>Delhi - West</item>
+        <item>Delhi - Sadar Paharganj</item>
+        <item>Gurgaon - West</item>
+        <item>Gurgaon - North</item>
+        <item>Gurgaon - East</item>
+        <item>Gurgaon - South</item>
+
+    </string-array>
+
+</resources>

@@ -1,0 +1,9 @@
+/Users/appyware/Desktop/lsq/Civic Reporter/app/build/intermediates/classes/debug
+/Users/appyware/Desktop/lsq/Civic Reporter/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-adae779e7d20c565f84134c3ab4e1aa94420b92d.jar
+/Users/appyware/Desktop/lsq/Civic Reporter/app/build/intermediates/pre-dexed/debug/httpmime-4.3.6-e9d0c33dab161f4f6eade564a2b73ccbe87f7e4c.jar
+/Users/appyware/Desktop/lsq/Civic Reporter/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-1026eebca11ff5bdb642a86d5c9be735789dcc0d.jar
+/Users/appyware/Desktop/lsq/Civic Reporter/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-dd3b59d510d6995fa6a98ca90220f09c6f6a9c80.jar
+/Users/appyware/Desktop/lsq/Civic Reporter/app/build/intermediates/pre-dexed/debug/classes-e2fc564699856bc25bf4f3e57f7a29dd4a470050.jar
+/Users/appyware/Desktop/lsq/Civic Reporter/app/build/intermediates/pre-dexed/debug/classes-2bc2ddca345a5d6ce28e9c7c7f60b43a177d0160.jar
+/Users/appyware/Desktop/lsq/Civic Reporter/app/build/intermediates/pre-dexed/debug/classes-19a25b87c97bfa606f8cfe940f96b5bf217ac563.jar
+/Users/appyware/Desktop/lsq/Civic Reporter/app/build/intermediates/pre-dexed/debug/classes-03af79b369689b990e2c7d90e24e39442150ae61.jar

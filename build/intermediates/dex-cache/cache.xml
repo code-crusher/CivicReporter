@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/appyware/Desktop/lsq/Civic Reporter/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="/Users/appyware/Desktop/lsq/Civic Reporter/app/build/intermediates/pre-dexed/debug/classes-03af79b369689b990e2c7d90e24e39442150ae61.jar" />
+    </item>
+    <item
+        jar="/Users/appyware/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.3.3/f91b7a4aadc5cf486df6e4634748d7dd7a73f06d/httpcore-4.3.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f91b7a4aadc5cf486df6e4634748d7dd7a73f06d">
+        <dex dex="/Users/appyware/Desktop/lsq/Civic Reporter/app/build/intermediates/pre-dexed/debug/httpcore-4.3.3-614e22a84077908c4a33263b23526987c8e5c6c3.jar" />
+    </item>
+    <item
+        jar="/Users/appyware/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/Users/appyware/Desktop/lsq/Civic Reporter/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-1026eebca11ff5bdb642a86d5c9be735789dcc0d.jar" />
+    </item>
+    <item
+        jar="/Users/appyware/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpmime/4.3.6/cf8bacbf0d476c7f2221f861269365b66447f7ec/httpmime-4.3.6.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="cf8bacbf0d476c7f2221f861269365b66447f7ec">
+        <dex dex="/Users/appyware/Desktop/lsq/Civic Reporter/app/build/intermediates/pre-dexed/debug/httpmime-4.3.6-e9d0c33dab161f4f6eade564a2b73ccbe87f7e4c.jar" />
+    </item>
+    <item
+        jar="/Users/appyware/Desktop/lsq/Civic Reporter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/Users/appyware/Desktop/lsq/Civic Reporter/app/build/intermediates/pre-dexed/debug/classes-e2fc564699856bc25bf4f3e57f7a29dd4a470050.jar" />
+    </item>
+    <item
+        jar="/Users/appyware/Desktop/lsq/Civic Reporter/app/build/intermediates/exploded-aar/com.facebook.android/facebook/3.23.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="981210eea4a99e619ad656bb7115c285d9a2528b">
+        <dex dex="/Users/appyware/Desktop/lsq/Civic Reporter/app/build/intermediates/pre-dexed/debug/classes-2bc2ddca345a5d6ce28e9c7c7f60b43a177d0160.jar" />
+    </item>
+    <item
+        jar="/Users/appyware/Desktop/lsq/Civic Reporter/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/Users/appyware/Desktop/lsq/Civic Reporter/app/build/intermediates/pre-dexed/debug/classes-19a25b87c97bfa606f8cfe940f96b5bf217ac563.jar" />
+    </item>
+    <item
+        jar="/Users/appyware/Desktop/lsq/Civic Reporter/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/Users/appyware/Desktop/lsq/Civic Reporter/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-dd3b59d510d6995fa6a98ca90220f09c6f6a9c80.jar" />
+    </item>
+    <item
+        jar="/Users/appyware/Documents/Android Studio/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/Users/appyware/Desktop/lsq/Civic Reporter/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-adae779e7d20c565f84134c3ab4e1aa94420b92d.jar" />
+    </item>
+
+</items>

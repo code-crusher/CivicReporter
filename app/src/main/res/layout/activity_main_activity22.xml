@@ -1,0 +1,85 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.lsquare.civicreporter.MainActivity22Activity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Your Complaint "
+        android:id="@+id/textView"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:textSize="38dp"
+        android:layout_marginTop="40dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Has Been Submitted"
+        android:id="@+id/textView2"
+        android:layout_below="@+id/textView"
+        android:textSize="35dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginLeft="5dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Succesfully!"
+        android:id="@+id/textView3"
+        android:layout_below="@+id/textView2"
+        android:layout_centerHorizontal="true"
+        android:textSize="38dp" />
+
+    <Button
+        android:layout_width="110dp"
+        android:layout_height="80dp"
+        android:text="Give Feedback"
+        android:id="@+id/button"
+        android:textColor="#ffffffff"
+        android:background="#ff1cb4ff"
+        android:layout_alignTop="@+id/button2"
+        android:layout_alignLeft="@+id/textView"
+        android:layout_alignStart="@+id/textView"
+        android:layout_marginRight="30dp"
+        android:layout_marginLeft="15dp" />
+
+    <Button
+        android:layout_width="110dp"
+        android:layout_height="80dp"
+        android:text="Rate Us!"
+        android:id="@+id/button2"
+        android:layout_alignParentBottom="true"
+        android:layout_toRightOf="@+id/button"
+        android:layout_toEndOf="@+id/button"
+        android:textColor="#fffff9fb"
+        android:background="#ff1cb4ff"
+        android:layout_marginBottom="30dp"
+        />
+
+    <ImageButton
+        android:layout_width="200dp"
+        android:layout_height="55dp"
+        android:id="@+id/imageButton"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/bv" />
+
+    <ImageButton
+        android:layout_width="200dp"
+        android:layout_height="55dp"
+        android:id="@+id/imageButton2"
+        android:layout_below="@+id/imageButton"
+        android:layout_alignLeft="@+id/textView3"
+        android:layout_alignStart="@+id/textView3"
+        android:background="@drawable/bv2"
+        android:layout_marginTop="10dp"
+        android:baselineAlignBottom="true" />
+</RelativeLayout>
